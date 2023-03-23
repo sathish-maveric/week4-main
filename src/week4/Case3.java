@@ -9,7 +9,7 @@ public class Case3 {
 	public static void main(String[] args) throws InterruptedException {
 
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Users\\laxmanb\\Desktop\\Selenium\\Software\\Driver\\chromedriver.exe");
+				"C:\\Users\\sathishkc\\Desktop\\Selenium\\Software\\Driver\\chromedriver.exe");
 		
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
